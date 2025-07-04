@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="850fa145836aa61077fb9d45eeaad330" extends="task" label="NeedITTable" max_length="40" name="x_58872_needit_needittable" type="collection">
+        <element label="TestRow2" max_length="10" name="testrow2" type="string"/>
+        <element display="true" label="TestRow" max_length="20" name="testrow" type="integer"/>
+    </element>
+</database>
